@@ -12,7 +12,7 @@ This project explores the fusion of human creativity and machine-generated art. 
 
 ## Sample Results  
 Here are some examples of regenerated paintings:  
-![Sample Output](results/sample1.png)  
+![Sample Output](generated_images/generated_image_epoch_200.png)  
 
 ## Installation  
 1. Clone the repository:  
