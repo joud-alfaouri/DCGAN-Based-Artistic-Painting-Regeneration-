@@ -17,5 +17,5 @@ Here are some examples of regenerated paintings:
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/joud-alfaouri/DCGAN-Artistic-Painting-Regeneration.git  
-   cd DCGAN-Artistic-Painting-Regeneration  
+   git clone https://github.com/joud-alfaouri/DCGAN-Artistic-Painting-Regeneration-.git  
+   cd DCGAN-Artistic-Painting-Regeneration-  
